@@ -2,11 +2,15 @@
 #### Software Engineer
 ![Software Engineer](https://pbs.twimg.com/profile_banners/3438148275/1635864557/600x200)
 
-I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure! You can check my "Twitter" or X account lol at https://twitter.com/dwnlglendale
+I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure!
 
 Skills: C# / ASP.Net Core / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/glenn-inkoom-19927716a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dwnlglendale/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dwnlglendale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/glendaleYT)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwnlglendale)](https://github.com/anuraghazra/github-readme-stats)
 <!--
