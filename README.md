@@ -4,8 +4,7 @@
 #### Software Engineer
 
 
-I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure! You can check my "Twitter" or X account lol at https://twitter.com/dwnlglendale
-
+I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure!
 Skills: C# / ASP.Net Core / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
