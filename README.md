@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure!
+You can check my "Twitter" or X account lol at twitter.com/dwnlglendale
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwnlglendale)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dwnlglendale/dwnlglendale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
