@@ -1,4 +1,4 @@
-![Software Engineer](https://pbs.twimg.com/profile_banners/3438148275/1635864557/800x200)
+![Software Engineer](https://pbs.twimg.com/profile_banners/3438148275/1635864557/650x200)
 
 ## Glenn Yaw Inkoom
 
