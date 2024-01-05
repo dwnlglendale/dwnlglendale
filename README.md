@@ -1,16 +1,12 @@
 ### Hi there 👋, Glenn Inkoom
 #### Software Engineer
-![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Engineer](https://pbs.twimg.com/profile_banners/3438148275/1635864557/600x200)
 
 I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure! You can check my "Twitter" or X account lol at https://twitter.com/dwnlglendale
 
 Skills: C# / ASP.Net Core / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
-
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwnlglendale)](https://github.com/anuraghazra/github-readme-stats)
 <!--
