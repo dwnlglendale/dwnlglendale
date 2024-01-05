@@ -1,8 +1,6 @@
 ![Software Engineer](https://pbs.twimg.com/profile_banners/3438148275/1635864557/600x200)
 
-### Hi there 👋, I'm Glenn Inkoom
-#### Software Engineer
-
+## Glenn Yaw Inkoom
 
 I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure!
 
