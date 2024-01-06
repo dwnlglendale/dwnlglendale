@@ -8,9 +8,10 @@ I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am c
 * ⚙️ I'm a tech enthusiast who gets up early, is highly motivated, and never stops learning.
 
 ## Skills and Experience
-* ⚛️ React
-* 🧑‍💻 C#, ASP.Net Core
 * 💻 HTML, CSS, JS
+* 🧑‍💻 C#, ASP.Net Core
+* * ⚛️ React, Next.js
+
 
 ## Mood: Learning!
 <img src="https://github.com/dwnlglendale/dwnlglendale/blob/main/giphy.gif" width="256"/>
