@@ -3,6 +3,9 @@
 ## Glenn Yaw Inkoom
 
 I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am currently on a 6-month roadmap to learning React framework as well. Be sure to follow my journey as I will be very active with this adventure!
+* 💯 I work on fascinating full-stack projects.
+* 🔭 I'm experimenting with various libraries and tools to expand my repertoire.
+* ⚙️ I'm a tech enthusiast who gets up early, is highly motivated, and never stops learning.
 
 ## Skills and Experience
 * ⚛️ React
