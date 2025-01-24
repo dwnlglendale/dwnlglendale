@@ -10,7 +10,7 @@ I'm Glenn from Ghana, currently a Fullstack developer using ASP.Net Core. I am c
 ## Skills and Experience
 * 💻 HTML, CSS, JS
 * 🧑‍💻 C#, ASP.Net Core
-* ⚛️ React, Next.js
+* ⚛️ React, Next.js, ExpressJS
 
 
 ## Mood: Learning!
